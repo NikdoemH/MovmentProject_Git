@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Blueprint/Actor/BP_RefCube.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/JI/2AP237RZM3GGM9JJWY5Y2P.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/D2/FK4QKQ1PWADVM2WY2SVI2Y.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/0T/LZDEAW9MX4Q1FEMH3GO92Z.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/BracedHangDrop_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/BracedHangHopLeft_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/BracedHangHopRight_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/BracedHangHopUp_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/BracedHangShimmyLeft_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/BracedHangShimmyRight_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/BracedHangToCrouch_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/BracedToFreeHang_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/FreehangClimb_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/FreeHangHopLeft_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/FreeHangHopRight_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/HangingFree_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/HangingIdle_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/IdleToBracedHang_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/Jumping_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/JumpingToHanging_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/JumpToFreehang_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/JumpToHang_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/LeftShimmy_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/Mantle_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/RightShimmy_UE.uasset",
+				"C:/Users/nikod/Documents/Unreal Projects/AsassinPrototyp/Content/Animation/VaultOverBox_UE.uasset"
+			]
+		}
+	]
+}
