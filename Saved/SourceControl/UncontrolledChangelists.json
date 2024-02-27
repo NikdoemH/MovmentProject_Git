@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/nikod/Documents/MovmentProject_Git/Content/TravelSystem/ABP_Manny_TravelCharakter.uasset",
 				"C:/Users/nikod/Documents/MovmentProject_Git/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/nikod/Documents/MovmentProject_Git/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/nikod/Documents/MovmentProject_Git/Content/TravelSystem/AnimationSystemBlueprint/ABP_Manny_TravelCharakter.uasset",
@@ -13,6 +12,9 @@
 				"C:/Users/nikod/Documents/MovmentProject_Git/Content/TravelSystem/DataTables/DT_Gameplay_TravelSystem.uasset",
 				"C:/Users/nikod/Documents/MovmentProject_Git/Content/TravelSystem/Interface/I_Travel_APB.uasset",
 				"C:/Users/nikod/Documents/MovmentProject_Git/Content/TravelSystem/Actors/BP_CharakterDirectionArrow.uasset",
+				"C:/Users/nikod/Documents/MovmentProject_Git/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/5W/D1ESDYJK0RRQNUFZR7C3IG.uasset",
+				"C:/Users/nikod/Documents/MovmentProject_Git/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/JV/HC4P6G86L6ZZB5UKB72MQW.uasset",
+				"C:/Users/nikod/Documents/MovmentProject_Git/Content/TravelSystem/ABP_Manny_TravelCharakter.uasset",
 				"C:/Users/nikod/Documents/MovmentProject_Git/Content/Animation/ABP_Manny_TravelCharakter.uasset",
 				"C:/Users/nikod/Documents/MovmentProject_Git/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/D2/FK4QKQ1PWADVM2WY2SVI2Y.uasset",
 				"C:/Users/nikod/Documents/MovmentProject_Git/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/JI/2AP237RZM3GGM9JJWY5Y2P.uasset",
